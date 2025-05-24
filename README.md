@@ -1,4 +1,4 @@
-IPL Win Predictor - Machine Learning Project
+**IPL Win Predictor - Machine Learning Project**
 🚀 Live Demo
 
 👉 [Click here to try the app]([https://ipl-win-predictor.streamlit.app](https://iplwinpredictor-6hlvnmcpxnqydv8cejzyfh.streamlit.app/)
