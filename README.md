@@ -1,4 +1,7 @@
 IPL Win Predictor - Machine Learning Project
+🚀 Live Demo
+
+👉 [Click here to try the app]([https://ipl-win-predictor.streamlit.app](https://iplwinpredictor-6hlvnmcpxnqydv8cejzyfh.streamlit.app/)
 
 This project uses a trained machine learning model to predict the winning probabilities of an IPL team during a match based on live match parameters.
 
