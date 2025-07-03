@@ -5,12 +5,12 @@
 
 This project is a live demo of an interactive web app built using Streamlit and powered by a Machine Learning pipeline to predict the win probability of an IPL team during a match in real time.
 
- Tech Stack
-Component	                    Technology
-Machine Learning	          Scikit-learn, Pandas
-Model Deployment	          Streamlit
-UI	                        HTML/CSS (via Streamlit)
-Hosting	                    Streamlit Cloud
+| Component        | Technology               |
+| ---------------- | ------------------------ |
+| Machine Learning | Scikit-learn, Pandas     |
+| Model Deployment | Streamlit                |
+| UI               | HTML/CSS (via Streamlit) |
+| Hosting          | Streamlit Cloud          |
 
 Overview:
 - Uses match data including runs left, balls remaining, wickets, current and required run rate.
