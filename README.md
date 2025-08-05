@@ -1,6 +1,6 @@
-##**IPL Win Predictor - Machine Learning Project**
-Live Demo
+**IPL Win Predictor - Machine Learning Project**
 
+Live Demo:
 👉 [Click here to try the app]([https://ipl-win-predictor.streamlit.app](https://iplwinpredictor-6hlvnmcpxnqydv8cejzyfh.streamlit.app/)
 
 This project is an interactive web application that uses machine learning to predict the win probability of an IPL team in real time during a match. Built using Streamlit for deployment and UI, this project showcases how data science can bring insights into live sports.
@@ -8,23 +8,19 @@ This project is an interactive web application that uses machine learning to pre
 📊 Overview
 The IPL Win Predictor takes live match conditions as input and predicts the likelihood of a team winning. The model is trained using historical IPL data and considers several match-specific parameters to give accurate, probabilistic outcomes.
 
-🔍 Key Features:Predicts win probabilities for the batting and bowling teams.
+🔍 Key Features:-Predicts win probabilities for the batting and bowling teams.
 
 Updates dynamically based on:
 
-Runs remaining
+-Runs remaining
+-Balls left
+-Wickets in hand
+-Current run rate
+-Required run rate
 
-Balls left
+-Simple and intuitive interface using Streamlit
 
-Wickets in hand
-
-Current run rate
-
-Required run rate
-
-Simple and intuitive interface using Streamlit
-
-Fast, real-time predictions using a trained ML model
+-Fast, real-time predictions using a trained ML model
 
 | Component        | Technology               |
 | ---------------- | ------------------------ |
